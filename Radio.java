@@ -61,7 +61,7 @@ class RadioButtonDemo extends JFrame implements ActionListener {
     }
 
     public void actionPerformed(ActionEvent e) {
-        // This method is not needed as we're using the anonymous ActionListener
+        
     }
 
     public static void main(String args[]) {
